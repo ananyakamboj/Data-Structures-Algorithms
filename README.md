@@ -4,7 +4,7 @@
 
 - [X] Create a Graph, print it
 - [X] Implement BFS algorithm
-- [ ] Implement DFS algorithm
+- [X] Implement DFS algorithm
 - [ ] Detect Cycle in Directed Graph using BFS/DFS algorithm
 - [ ] Detect Cycle in Undirected Graph using BFS/DFS algorithm
 - [ ] Search in a Maze
