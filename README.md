@@ -3,7 +3,7 @@
 <h4>(44 questions)</h4>
 
 - [X] Create a Graph, print it
-- [ ] Implement BFS algorithm
+- [X] Implement BFS algorithm
 - [ ] Implement DFS algorithm
 - [ ] Detect Cycle in Directed Graph using BFS/DFS algorithm
 - [ ] Detect Cycle in Undirected Graph using BFS/DFS algorithm
