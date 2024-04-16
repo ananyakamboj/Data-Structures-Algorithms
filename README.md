@@ -1,0 +1,47 @@
+<h1> LeetCode practice through Love Babbar's 450 DSA Sheet </h1>
+<h2>Graphs </h2> 
+<h4>(44 questions)</h4>
+
+- [X] Create a Graph, print it
+- [ ] Implement BFS algorithm
+- [ ] Implement DFS algorithm
+- [ ] Detect Cycle in Directed Graph using BFS/DFS algorithm
+- [ ] Detect Cycle in Undirected Graph using BFS/DFS algorithm
+- [ ] Search in a Maze
+- [ ] Minimum Step by Knight
+- [ ] Flood fill algorithm
+- [ ] Clone a graph
+- [ ] Making wired connections
+- [ ] Word Ladder
+- [ ] Dijkstra algorithm
+- [ ] Implement Topological Sort
+- [ ] Minimum time taken by each job to be completed given by a Directed Acyclic Graph
+- [ ] Find whether it is possible to finish all tasks or not from given dependencies
+- [ ] Find the number of islands
+- [ ] Given a sorted Dictionary of an Alien Language, find order of characters
+- [ ] Implement Kruskal’s Algorithm
+- [ ] Implement Prim’s Algorithm
+- [ ] Total number of spanning trees in a graph
+- [ ] Implement Bellman-Ford Algorithm
+- [ ] Implement Floyd-Warshall Algorithm
+- [ ] Traveling Salesman Problem
+- [ ] Graph Coloring Problem
+- [ ] Snake and Ladders Problem
+- [ ] Find bridge in a graph
+- [ ] Count Strongly Connected Components (Kosaraju Algorithm)
+- [ ] Check whether a graph is Bipartite or Not
+- [ ] Detect Negative cycle in a graph
+- [ ] Longest path in a Directed Acyclic Graph
+- [ ] Journey to the Moon
+- [ ] Cheapest Flights Within K Stops
+- [ ] Oliver and the Game
+- [ ] Water Jug problem using BFS
+- [ ] Find if there is a path of more than k length from a source
+- [ ] M-Coloring Problem
+- [ ] Minimum edges to reverse to make path from source to destination
+- [ ] Paths to travel each node using each edge (Seven Bridges)
+- [ ] Vertex Cover Problem
+- [ ] Chinese Postman or Route Inspection
+- [ ] Number of Triangles in a Directed and Undirected Graph
+- [ ] Minimize the cashflow among a given set of friends who have borrowed money from each other
+- [ ] Two Clique Problem
